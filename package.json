@@ -1,0 +1,27 @@
+{
+  "name": "remove-route-runtime",
+  "version": "1.0.0",
+  "description": "express remove route runtime for v4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congling0251/remove-route.git"
+  },
+  "keywords": [
+    "express",
+    "remove",
+    "route"
+  ],
+  "author": "afei <afeiszh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/congling0251/remove-route/issues"
+  },
+  "homepage": "https://github.com/congling0251/remove-route#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
